@@ -5,11 +5,11 @@
 | (__| |_| | (_) \ V /  __/ |_| |_| | (_| |  __/ (_) \ V /
  \___|\__,_|\___/ \_/ \___|\__|\__,_|\__,_|\___|\___/ \_/
 
-          AI 不是替代人类，是替代那些不会使用 AI 的人。
+          从电商运营到 AI 开发，6 周发布 2 个开源项目。
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+%E8%87%AD%E5%98%9F%E5%98%9F;AI+%E5%BC%80%E5%8F%91%E8%80%85+%C2%B7+%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B8%83%E9%81%93%E8%80%85;%E7%94%B5%E5%95%86%E8%BF%90%E8%90%A5+%E2%86%92+AI+%E6%8E%A2%E7%B4%A2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+%E9%AB%98%E6%B6%A6%E6%9D%BE;AI+%E5%BC%80%E5%8F%91%E8%80%85+%C2%B7+%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B8%83%E9%81%93%E8%80%85;%E7%94%B5%E5%95%86%E8%BF%90%E8%90%A5+%E2%86%92+AI+%E6%8E%A2%E7%B4%A2" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -55,18 +55,19 @@
 
 ---
 
-## 📈 AI 学习路线
+## 📈 AI 学习之路
 
 ```mermaid
 timeline
-    title AI 学习之旅
-    2024 Q3 : Python 基础语法 : 爬虫 & 自动化脚本
-    2024 Q4 : API 调用 & 数据处理 : 飞书 API 集成
-    2025 Q1 : IMAP 邮件协议 : DeepSeek 大模型接入
-    2025 Q2 : Claude Code CLI : WebSocket 长连接
-    2025 Q3 : Claude Plugin 开发 : 交互式 Skill 设计
-    2026 Q1 : MCP 服务探索 : 开源项目维护
-    2026 Q2 : 多 Agent 协同 : 更多开源项目
+    title 从零到开源 — 真实成长记录
+    2025 Q4 : 接触 Trae IDE : 第一次写代码
+    2026 Q1 : 键盘精灵 · 蜗牛下载 : 工具类小项目练手
+    2026-04-08 : 安装 Python 3.14 : 正式开始学编程
+    2026-04-25 : 收纳宝 · 腾讯云上传 : 第一个 Python 应用上线
+    2026-05-06 : 首次使用 Claude Code : AI 辅助编程入门
+    2026-05-07 : cc 项目首次 Git 提交 : 一天建 15+ 子项目
+    2026-05-17 : MailDigest 邮件日报 : DeepSeek + IMAP + 飞书
+    2026-05-24 : feishu-bridge 发布 : Claude Plugin 市场开源
 ```
 
 ---
